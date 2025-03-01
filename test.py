@@ -32,3 +32,4 @@ class TestStripVersion(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+# огурцы пикуля
